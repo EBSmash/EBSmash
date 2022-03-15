@@ -18,5 +18,6 @@ Hi there, I'm **EBSmash**, a **Minecraft client enthusiest** and a **Person Who 
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ebsmash&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=EBSmash)
 
 ⭐️ From [EBSmash](https://github.com/EBSmash)
