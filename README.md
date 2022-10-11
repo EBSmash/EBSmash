@@ -19,6 +19,5 @@ Hi there, I'm **EBSmash**, a **Minecraft client enthusiest** and a **Person Who 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EBSmash)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=EBSmash)
 
 ⭐️ From [EBSmash](https://github.com/EBSmash)
