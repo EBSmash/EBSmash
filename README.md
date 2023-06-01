@@ -5,6 +5,7 @@
 
 Hi there, I'm **EBSmash**, a **Minecraft client enthusiest** and a **Person Who enjoys coding** 🚀 from The USA. 
 
+*i will not be doing as much work on this github but i have moved over to a more "proffessional" account cuz i need to get a job soon. If ou want to look at my new work for any reason itll prob be here https://github.com/ElijahBare*
 
 **Languages and Tools:**  
 
